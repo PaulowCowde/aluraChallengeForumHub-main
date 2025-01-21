@@ -2,7 +2,7 @@
 🌎@Alura @Oracle
 🤙Alura ONE G7 Challenges
 🚩Especialização Back-End/Java e Spring Framework
-📅Wednesday, 18th December 2024 -📍São Paulo, Brazil
+📍São Paulo, Brazil
 
 Static Badge Static Badge Static Badge Static Badge Static Badge Static Badge
 
